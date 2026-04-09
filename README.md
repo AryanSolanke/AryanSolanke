@@ -21,13 +21,12 @@ I prefer structured learning, independent execution, and continuous skill refine
 ## 🛠 Technical Focus
 
 ### Programming
-- C (Strong foundation in memory, pointers, and low-level logic)
-- C++
 - Python
 - SQL
+- C++
 
 ### Core Areas
-- Data Structures & Algorithms
+- Data Structures & Algorithms(practicing...)
 - Database Management Systems
 - Machine Learning Fundamentals
 - System Logic & Computational Thinking
@@ -37,8 +36,7 @@ I prefer structured learning, independent execution, and continuous skill refine
 ## 🚀 Current Work
 
 - Developing modular calculator systems (standard + scientific + programmer modes)
-- Building SQL-based database projects with structured schema design
-- Working on ML-based experimental projects (data preprocessing → model training → evaluation)
+- Working on ML-based projects (Sepsis prediction)
 - Strengthening problem-solving through structured practice
 
 ---
@@ -48,7 +46,6 @@ I prefer structured learning, independent execution, and continuous skill refine
 - Artificial Intelligence & Machine Learning
 - Model optimization and algorithmic efficiency
 - Clean code architecture
-- Performance-focused system design
 
 ---
 
@@ -62,12 +59,5 @@ To become a high-impact AI/ML Engineer capable of designing scalable, efficient,
 
 - GitHub: https://github.com/AryanSolanke  
 - LinkedIn: https://www.linkedin.com/in/aryan-solanke-347450320  
-- Email: aryansolanke1812@gmail.com  
-
+- Email: aryan.v.solanke@gmail.com  
 ---
-
-## 🎯 Philosophy
-
-Consistency over intensity.  
-Depth over surface-level knowledge.  
-Execution over motivation.
